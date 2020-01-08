@@ -1,0 +1,7 @@
+{
+    "name" : "telencephalon",
+    "components" : [ "cerebral cortex",
+		     "basal ganglia",
+		     "hippocampus",
+		     "amygdala" ]
+}

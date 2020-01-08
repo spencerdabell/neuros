@@ -1,0 +1,7 @@
+{
+    "name" : "brain",
+    "components": [ "forebrain",
+		    "midbrain",
+		    "hindbrain"]
+    ]
+}

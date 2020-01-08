@@ -1,0 +1,6 @@
+{
+    "name" : "forebrain",
+    "components" : [ "telencephalon",
+		     "diencephalon"
+		   ]
+}

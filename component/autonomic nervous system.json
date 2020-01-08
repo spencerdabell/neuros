@@ -1,0 +1,6 @@
+{
+    "name" : "autonomic nervous system",
+    "components" : [ "sympathetic nervous system",
+		     "parasympathetic nervous system",
+		     "enteric nervous system"]
+}

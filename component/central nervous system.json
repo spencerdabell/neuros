@@ -1,0 +1,6 @@
+{
+    "name" : "central nervous system",
+    "components": [ "brain",
+		    "spinal cord" ]
+    ]
+}

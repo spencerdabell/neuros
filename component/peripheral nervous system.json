@@ -1,0 +1,5 @@
+{
+    "name" : "peripheral nervous system",
+    "components" : [ "autonomic nervous system",
+		     "somatic nervous system" ]
+}

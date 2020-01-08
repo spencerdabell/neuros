@@ -1,0 +1,5 @@
+{
+    "name" : "hindbrain",
+    "components" : [ "metencephalon",
+		     "myelencephalon" ]
+}
